@@ -27,7 +27,9 @@ For a portfolio-oriented testing and iteration narrative, see [test.md](./test.m
 - Node.js 18 or newer
 - npm
 
-## Run In Development
+## Quick Start
+
+This repository is source-only. After cloning or downloading it, install dependencies first:
 
 ```bash
 npm install
@@ -35,6 +37,13 @@ npm run dev
 ```
 
 This starts Vite for the React renderer and opens the Electron desktop window.
+
+## Run In Development
+
+```bash
+npm install
+npm run dev
+```
 
 ## Install And Run On macOS
 
